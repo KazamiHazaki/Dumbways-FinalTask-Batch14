@@ -4,13 +4,14 @@
 Task List
 
 1. [Cloud Computing](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14#-cloud-computing-)
-2. [SSH](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14/blob/main/README.md#-ssh-)
-3. [Repository](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14/blob/main/README.md#-repository-)
-4. [Deployment](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14/blob/main/README.md#-deployment-)
-5. [CI/CD](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14/blob/main/README.md#-cicd-)
-6. [Monitoring](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14/blob/main/README.md#-monitoring-)
-7. [Web Server](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14/blob/main/README.md#-web-server-)
-8. [Microservices](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14/blob/main/README.md#-microservices-)
+2. [SSH](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14#-ssh-)
+3. [Repository](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14#-repository-)
+4. [Deployment](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14#-deployment-)
+5. [CI/CD](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14#-cicd-)
+6. [Monitoring](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14#-monitoring-)
+7. [Web Server](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14#-web-server-)
+8. [Microservices](https://github.com/KazamiHazaki/Dumbways-FinalTask-Batch14#-microservices-)
+
 
 # <h1> CLOUD COMPUTING </h1>
 
